@@ -1,4 +1,4 @@
 # om-shivaay
 This is my first Git Repository
 <br>
-Author - Om Tiwari
+Author - Om Tiwari (shivaay)
